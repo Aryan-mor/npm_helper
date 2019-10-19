@@ -1,7 +1,4 @@
-# npm_helper
-
-
-# REGEX
+# React npm helper
 
 * [Check Unused Packag](#CheckUnusedPackage)
 
